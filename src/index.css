@@ -1,0 +1,23 @@
+/* ----- Nav Bar ----- */
+.navbar {
+  max-height: 100px;
+  border: 1px solid red;
+  width: 100%;
+}
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  border: 1px solid blue;
+}
+
+/* ----- Logo Container ----- */
+.logo-container {
+  padding: 20px 20px;
+  display: flex;
+  justify-content: center;
+}
+.logo {
+  max-width: 400px;
+  width: 100%;
+}
